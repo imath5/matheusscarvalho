@@ -1,5 +1,5 @@
 Olá :)
-Sou Matheus, moro em Várzea Grande - Mato Grosso, Brasil, atualmente sou estudante de graduação Engenharia de Computação UFMT, sigo aprimorando meus conhecimentos sobre front-end, com foto em ser dev web, então, as tecnologias que estou aprendendo atualmente são HTML/CSS/JS meu foco na carreira, inicialmente, é ser desenvolvedor web front-end, em busca de experiência na área, mas tenho também interesse em aprender diferentes areas da TI como desenvolvedor de software / desenvolvedor mobile.
+Sou Matheus S. Carvalho, moro em Várzea Grande - Mato Grosso, Brasil, atualmente sou estudante de graduação Engenharia de Computação UFMT, sigo aprimorando meus conhecimentos sobre front-end, com foco em ser dev web, então, as tecnologias que estou aprendendo atualmente são HTML/CSS/JS meu foco na carreira, inicialmente, é ser desenvolvedor web front-end, em busca de experiência na área, mas tenho também interesse em aprender diferentes areas da TI como desenvolvedor de software / desenvolvedor mobile.
 
 👀 Interessado em aprender mais sobre linguaguems que pretendo dominar, pretendo colher conhecimento para ser um dev web.
 
