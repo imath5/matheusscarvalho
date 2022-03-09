@@ -1,13 +1,24 @@
-Olá :)
-Sou Matheus S. Carvalho, moro em Várzea Grande - Mato Grosso, Brasil, atualmente sou estudante de graduação Engenharia de Computação UFMT, sigo aprimorando meus conhecimentos sobre front-end, com foco em ser dev web, então, as tecnologias que estou aprendendo atualmente são HTML/CSS/JS meu foco na carreira, inicialmente, é ser desenvolvedor web front-end, em busca de experiência na área, mas tenho também interesse em aprender diferentes areas da TI como desenvolvedor de software / desenvolvedor mobile.
+<div>
+  <a href="https://github.com/imath5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imath5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imath5&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+ 
+ <br>
+ 
+  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+  <a href="https://instagram.com/carvalhomaths" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:matheusdocarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheusscarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
-👀 Interessado em aprender mais sobre linguaguems que pretendo dominar, pretendo colher conhecimento para ser um dev web.
-
-📫 Como entrar em contato: matheusdocarvalho@gmail.com
-                              
-                             
-
-<!---
-imath5/imath5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
