@@ -1,5 +1,5 @@
 
-## Bem-vindo(a) ao meu perfil!
+## Olá, Seja bem-vindo(a) ao meu perfil!
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imath5&show_icons=true&theme=transparent)
