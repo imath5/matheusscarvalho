@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imath5&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imath5&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imath5&layout=demo&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 # Tecnologias
 <div style="display: inline_block">
