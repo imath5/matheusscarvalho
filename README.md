@@ -1,6 +1,11 @@
 
 # Olá, Seja bem-vindo(a) ao meu perfil!
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusscarvalho1}/count.svg" /></p> 
+<br></div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusscarvalho1&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusscarvalho1&layout=demo&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
