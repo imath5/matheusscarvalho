@@ -9,8 +9,6 @@
 
 📫 Entre em contato comigo pelo e-mail: matheusdocarvalho@gmail.com ou pelo <a href="https://www.linkedin.com/in/matheusscarvalho/">LinkedIn</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusscarvalho1&show_icons=true&theme=transparent)
-
 <br>
 
 # Tecnologias
@@ -21,7 +19,4 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
 </div>
-
-
-![Snake animation](https://github.com/matheusscarvalho1/matheusscarvalho1/blob/output/github-contribution-grid-snake.svg)
 
