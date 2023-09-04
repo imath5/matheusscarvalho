@@ -9,7 +9,6 @@
 
 📫 Entre em contato comigo pelo e-mail: matheusdocarvalho@gmail.com ou pelo <a href="https://www.linkedin.com/in/matheusscarvalho/">LinkedIn</a>
 
-<br>
 
 # Tecnologias
 <div style="display: inline_block">
