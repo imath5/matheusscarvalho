@@ -17,4 +17,4 @@
 </div>
 
 
-![Snake animation](https://github.com/matheusscarvalho1/matheusscarvakho1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/matheusscarvalho1/matheusscarvalho1/blob/output/github-contribution-grid-snake.svg)
