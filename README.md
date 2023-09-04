@@ -7,7 +7,7 @@
 
 🌱 Aprendendo e trabalhando com JavaScript e React
 
-📫 Entre em contato comigo pelo e-mail: matheusdocarvalho@gmail.com  /  ou pelo <a href="https://www.linkedin.com/in/matheusscarvalho/">LinkedIn</a>
+📫 Entre em contato comigo pelo e-mail: matheusdocarvalho@gmail.com ou pelo <a href="https://www.linkedin.com/in/matheusscarvalho/">LinkedIn</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusscarvalho1&show_icons=true&theme=transparent)
 
