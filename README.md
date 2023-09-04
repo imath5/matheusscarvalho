@@ -7,7 +7,7 @@
 
 🌱 Aprendendo e trabalhando com JavaScript e React
 
-📫 How to reach me: matheusdocarvalho@gmail.com
+📫 Entre em contato comigo pelo e-mail ou linkedin: matheusdocarvalho@gmail.com  / <a href="https://www.linkedin.com/in/matheusscarvalho/">LinkedIn</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusscarvalho1&show_icons=true&theme=transparent)
 
@@ -21,7 +21,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <hr>
-  <a href="https://www.linkedin.com/in/matheusscarvalho/"><img align="center" alt="Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"></a>
+  
 </div>
 
 
