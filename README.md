@@ -2,7 +2,6 @@
 <img src="https://github.com/carlosdaniel31/repo-of-image/blob/main/img-banner-github.png" alt="Imagem de um programador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Sou Matheus Carvalho, Desenvolvedor Front-end.
 
 
 # Olá, Seja bem-vindo(a) ao meu perfil!
@@ -13,9 +12,9 @@ Sou Matheus Carvalho, Desenvolvedor Front-end.
 
 🌱 Aprendendo e trabalhando com JavaScript e React
 
-📫 Entre em contato comigo 
-<br>E-mail: [![Gmail Badge](https://img.shields.io/badge/-matheusdocarvalho@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusdocarvalho@gmail.com)](mailto:matheusdocarvalho@gmail.com)
-<br>LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Carvalho-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusscarvalho/)](https://www.linkedin.com/in/matheusscarvalho/{target="_blank"})
+📫 Entre em contato comigo:
+<br> [![Gmail Badge](https://img.shields.io/badge/-matheusdocarvalho@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusdocarvalho@gmail.com)](mailto:matheusdocarvalho@gmail.com)
+<br> [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Carvalho-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusscarvalho/)](https://www.linkedin.com/in/matheusscarvalho/{target="_blank"})
 
 
 <h2> 💻 &nbsp;Tecnologias</h2>
