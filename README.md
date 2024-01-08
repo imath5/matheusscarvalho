@@ -14,7 +14,7 @@
 
 📫 Entre em contato comigo:
 <br> [![Gmail Badge](https://img.shields.io/badge/-matheusdocarvalho@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusdocarvalho@gmail.com)](mailto:matheusdocarvalho@gmail.com)
-<br> [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Carvalho-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusscarvalho/)](https://www.linkedin.com/in/matheusscarvalho/{target="_blank"})
+<br> [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Carvalho-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusscarvalho/)](https://www.linkedin.com/in/matheusscarvalho/)
 
 
 <h2> 💻 &nbsp;Tecnologias</h2>
